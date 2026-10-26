@@ -1,0 +1,58 @@
+# Date and Time Utility
+
+## Description
+
+This is a simple Python program that performs useful date and time calculations using the built-in `datetime` module.
+
+## Objective
+
+To learn practical date and time manipulation in Python.
+
+## Features
+
+- Calculate age from date of birth.
+- Calculate the number of days between two dates.
+- Calculate working days excluding Saturdays and Sundays.
+- Display the current date and time in a formatted format.
+- Validate date inputs and handle invalid menu choices.
+
+## Tools Used
+
+- Python
+- datetime module
+
+## How to Run
+
+1. Install Python on your computer.
+2. Save the program as `date_utility.py`.
+3. Open a terminal or Python IDLE.
+4. Run the program.
+5. Select an operation from the menu.
+6. Enter dates in `DD-MM-YYYY` format.
+
+## Sample Output
+
+```text
+--- Date and Time Utility ---
+1. Calculate Age
+2. Days Between Dates
+3. Calculate Working Days
+4. Display Current Date and Time
+5. Exit
+
+Enter your choice: 2
+Enter start date (DD-MM-YYYY): 01-10-2026
+Enter end date (DD-MM-YYYY): 10-10-2026
+Number of days: 9
+```
+
+## Concepts Used
+
+- Functions
+- Conditional statements
+- While loops
+- Exception handling
+- Date and time calculations
+- Python's datetime module
+
+##
